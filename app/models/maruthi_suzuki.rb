@@ -1,0 +1,2 @@
+class MaruthiSuzuki < ApplicationRecord
+end
